@@ -1,7 +1,6 @@
 # StinkyBot
-stinky
 
-#How to run
+## How to run
 1. Open cmd and make sure you have the correct version of Discord.js installed for this by running the following:
 
 `npm install discord.js@11.6.2`
